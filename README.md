@@ -35,7 +35,7 @@
 
 <br/><br/>
 
-[![Rani Prakash]'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/raniprakash)
+[![Rani Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/raniprakash)
 
 <br/>
 
