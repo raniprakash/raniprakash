@@ -2,10 +2,8 @@
 - 👀 I’m currently working on a Full Stack Project.
 - 🌱 I’m currently learning Full Stack Web Development(MERN).
 - 👨‍💻 checkout my repo's.
--
-![image](https://user-images.githubusercontent.com/68438670/203854170-d90fadce-a0b6-469a-ba8c-9b74916de473.png)
-[codechef](https://www.codechef.com/users/rani_prakash)
--[LinkedIn](https://www.linkedin.com/in/rani-prakash/)
+- Connect with me:
+![image](https://user-images.githubusercontent.com/68438670/203854380-3893f049-9a47-4636-b0af-5254ada7a83b.png)(https://www.codechef.com/users/rani_prakash)
 
 
 <!---
