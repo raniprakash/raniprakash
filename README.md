@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing softwares.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at University BDT College of Engineering, Davangere and coding stuffs.
 
@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java(proficient) | C++ | C | MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
@@ -35,7 +35,7 @@
 
 <br/><br/>
 
-[![Rani Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/raniprakash)
+[![Rani Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raniprakash&show_icons=true)](https://github.com/raniprakash)
 
 <br/>
 
