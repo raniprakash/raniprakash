@@ -64,9 +64,6 @@
 
 <a href="https://www.linkedin.com/in/rani-prakash/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rani%20Prakash-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.codechef.com/users/rani_prakash"><img alt="CodeChef" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png-blue?style=flat-square&logo=codechef"></a>
-
-
 <a href="mailto:rani.bhuti2023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rani.bhuti2023@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
