@@ -62,7 +62,7 @@
 <p align="center">
 
 
-<a href="https://www.linkedin.com/in/rani-prakash/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rani-prakash/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rani%20Prakash-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:rani.bhuti2023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rani.bhuti2023@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
@@ -72,7 +72,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=raniprakash.raniprakash)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
