@@ -18,9 +18,9 @@
 
 
 
-- 💻 &nbsp; Python | Java(proficient) | C++ | C | MySQL
+- 💻 &nbsp; Python | Java(proficient) | C++ | C | MySQL | DBMS | Data Structures & Algorithms
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Node.js | Express.js
 
 
 
